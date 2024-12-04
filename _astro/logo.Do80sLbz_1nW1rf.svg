@@ -1,0 +1,18 @@
+<svg width="1000" height="1000" viewBox="0 0 1000 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="80" y="35" width="280" height="930" rx="140" fill="#FFD905"/>
+<rect x="699.797" y="118.769" width="36.6154" height="860.517" rx="18.3077" transform="rotate(30 699.797 118.769)" fill="url(#paint0_linear_1_4)"/>
+<rect x="640" y="35" width="280" height="930" rx="140" fill="black"/>
+<path d="M500 399C555.781 399 601 444.219 601 500C601 555.781 555.781 601 500 601C444.219 601 399 555.781 399 500C399 444.219 444.219 399 500 399Z" fill="black"/>
+<mask id="mask0_1_4" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="276" y="125" width="450" height="751">
+<path d="M691.154 134.624C696.209 125.868 707.406 122.868 716.163 127.923C724.919 132.979 727.919 144.175 722.864 152.932L310.913 866.452C305.857 875.208 294.661 878.208 285.904 873.153C277.148 868.097 274.147 856.9 279.203 848.144L691.154 134.624Z" fill="white"/>
+</mask>
+<g mask="url(#mask0_1_4)">
+<path d="M500 398.769C555.908 398.769 601.231 444.092 601.231 500C601.231 555.908 555.908 601.231 500 601.231C444.092 601.231 398.769 555.908 398.769 500C398.769 444.092 444.092 398.769 500 398.769Z" fill="white"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_1_4" x1="718.105" y1="118.769" x2="718.105" y2="979.286" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FFD905"/>
+<stop offset="1" stop-color="#FFD905" stop-opacity="0"/>
+</linearGradient>
+</defs>
+</svg>
